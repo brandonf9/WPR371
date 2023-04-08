@@ -39,3 +39,12 @@ Run the server in the Terminal using this command:
 
     node app.js
     
+    
+GIT REPOSITORY:
+
+Create GitHub Account,
+Download GitHub here: https://desktop.github.com/
+Download Git here: https://git-scm.com/download/win
+
+COMMANDS FOR VS CODE: 
+
