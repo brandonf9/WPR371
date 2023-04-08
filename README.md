@@ -46,5 +46,11 @@ Create GitHub Account,
 Download GitHub here: https://desktop.github.com/
 Download Git here: https://git-scm.com/download/win
 
-COMMANDS FOR VS CODE: 
+COMMANDS FOR VS CODE TERMINAL: 
+
+1. DOWNLOAD REPOSITORY:
+
+git clone https://github.com/brandonf9/WPR371.git
+
+
 
