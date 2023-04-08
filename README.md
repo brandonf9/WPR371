@@ -52,5 +52,10 @@ COMMANDS FOR VS CODE TERMINAL:
 
 clone -b master https://github.com/brandonf9/WPR371.git
 
+ADDING FILES AND DIRECTORIES(push the diretories or filenames before the code):
+
+git add <folder name>
+git add <file name.js>
+
 
 
