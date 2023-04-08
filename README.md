@@ -50,7 +50,7 @@ COMMANDS FOR VS CODE TERMINAL:
 
 1. DOWNLOAD REPOSITORY:
 
-git clone https://github.com/brandonf9/WPR371.git
+clone -b master https://github.com/brandonf9/WPR371.git
 
 
 
